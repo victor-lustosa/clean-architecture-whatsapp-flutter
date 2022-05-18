@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915659177392",
+    "project_id": "whatsapp-9ff7d",
+    "storage_bucket": "whatsapp-9ff7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915659177392:android:ef05b5eb9ce60b8735aa75",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915659177392-flfbbmet1bscd3648b4kkrt7f0rs0jhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-G4uIVQnYPK_FMSAqyV3RQUhpGmKHj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915659177392-flfbbmet1bscd3648b4kkrt7f0rs0jhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
